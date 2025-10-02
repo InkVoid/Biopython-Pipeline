@@ -12,6 +12,14 @@ GeneScope is a lightweight Streamlit-based bioinformatics tool that allows users
 - Visualizations (base composition, ORF length distribution, codon usage)
 
 ## Example Usage
+<img width="1372" height="414" alt="Input   Settings" src="https://github.com/user-attachments/assets/45f97627-b27c-4595-bd7c-31c79cade79e" />
+
+<img width="996" height="332" alt="Summary" src="https://github.com/user-attachments/assets/896619a1-5dc0-40de-948a-003b86a76576" />
+
+<img width="980" height="661" alt="FASTA" src="https://github.com/user-attachments/assets/d89c11cd-5533-43d0-a8a1-ac513b4816f2" />
+
+<img width="979" height="288" alt="Central Dogma" src="https://github.com/user-attachments/assets/411fe05f-3c41-432b-b0d3-642afe55dc14" />
+
 <img width="1200" height="800" alt="base_composition" src="https://github.com/user-attachments/assets/f3da5e99-d17b-40c8-a955-a96a47297e01" />
 
 <img width="1600" height="600" alt="codon_usage" src="https://github.com/user-attachments/assets/654190f6-9196-4b3c-b1fe-e6f5420f39e9" />
