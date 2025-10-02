@@ -11,6 +11,13 @@ GeneScope is a lightweight Streamlit-based bioinformatics tool that allows users
 - BLASTp vs PDB for structure lookup, embedded viewer
 - Visualizations (base composition, ORF length distribution, codon usage)
 
+## Example Usage
+<img width="1200" height="800" alt="base_composition" src="https://github.com/user-attachments/assets/f3da5e99-d17b-40c8-a955-a96a47297e01" />
+
+<img width="1600" height="600" alt="codon_usage" src="https://github.com/user-attachments/assets/654190f6-9196-4b3c-b1fe-e6f5420f39e9" />
+
+<img width="1200" height="800" alt="orf_histogram" src="https://github.com/user-attachments/assets/b36cc5e3-9b8a-4462-9c69-ec0cb79e9f48" />
+
 ## Installation
 Clone this repo and install dependencies:
 
